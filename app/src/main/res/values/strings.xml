@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Learning Task 4.1</string>
+    <string name="calculator">Calculator</string>
+    <string name="app_instructions">Enter 3 numbers and click one of the four operations</string>
     <string name="txt_compute_result">Showing Result(s)</string>
+    <string name="num1">Enter Value 1</string>
+    <string name="num2">Enter Value 2</string>
+    <string name="num3">Enter Value 3</string>
     <string name="txt_close">Close</string>
 </resources>
