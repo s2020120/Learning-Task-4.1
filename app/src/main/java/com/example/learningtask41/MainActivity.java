@@ -149,5 +149,6 @@ public class MainActivity extends AppCompatActivity {
         et1.getText().clear();
         et2.getText().clear();
         et3.getText().clear();
+        et1.requestFocus();
     }
 }
